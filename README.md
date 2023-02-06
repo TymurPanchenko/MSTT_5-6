@@ -1,1 +1,1 @@
-# Scala_Lab_5-6
+MSTT_5-6
